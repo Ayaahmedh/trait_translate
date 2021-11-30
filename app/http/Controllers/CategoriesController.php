@@ -1,10 +1,7 @@
 <?php
 
-namespace Modules\Categories\Http\Controllers;
+namespace App\Http\Controllers;
 
-use App\Helpers\BootForm;
-use App\Helpers\Logs;
-use App\Settings;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Routing\Controller;
